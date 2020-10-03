@@ -18,6 +18,7 @@
     - [Demo](#demo)
     - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
+- [Questions](#questions)
 - [License](#license)
 
 ---
@@ -94,6 +95,12 @@ The last element on the home page is an inspirational quote and an option to sub
 
 ### Contributing
 If you'd like to contribute to this application, feel free to submit a pull request.
+
+#### Questions
+    
+If you have any questions, please [email me.](mailto:aiden.threadgoode@gmail.com)
+
+If you'd like to see more of my work, feel free to check out [my github!](https://github.com/a-thread)
 
 #### License
 This project is licensed under GPL v3.0.
