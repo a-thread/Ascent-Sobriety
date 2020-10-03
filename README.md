@@ -10,17 +10,15 @@
 ---
 
 #### Table of Contents
-- [Ascent](#ascent)
-      - [Deployed Link: check us out on heroku!](#deployed-link-check-us-out-on-heroku)
-      - [Table of Contents](#table-of-contents)
-  - [Our Team:](#our-team)
-  - [Description](#description)
+- [Deployed Link: check us out on heroku!](#deployed-link-check-us-out-on-heroku)
+- [Our Team:](#our-team)
+- [Description](#description)
     - [Daily Check In](#daily-check-in)
     - [Time Tracking](#time-tracking)
     - [Demo](#demo)
     - [Technologies Used](#technologies-used)
-    - [Contributing](#contributing)
-      - [License](#license)
+- [Contributing](#contributing)
+- [License](#license)
 
 ---
 
