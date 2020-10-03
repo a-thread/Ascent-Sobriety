@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
 
-# Ascent
+# Ascent: Sobriety Tool
 [![License: GPL v3.0](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://choosealicense.com/licenses/gpl-3.0/)
 
 <img src="./public/img/md/front-page.png" alt="Image of start page of application" width="50%"><img src="./public/img/md/counter-page.png" alt="Image of counter page of application" width="50%">
