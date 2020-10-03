@@ -65,10 +65,10 @@ Below the counter are badges earned. Badges can be earned for continuous sobriet
 * One year: <img src="./public/img/badges/oneYear.png" width="30"/>
 
 Below that the total sober days is displayed with both the number and symbols for days, months, and years:
-* <i class="fas fa-sun" style="color: #f2e165; font-size: 25px"></i> for one day
-* <i class="far fa-sun" style="color: #BFF0CF; font-size: 25px"></i> for one week
-* <i class="fas fa-star" style="color: #fff; background: #3a5772c0; font-size: 25px"></i> for one month
-* <i class="fas fa-medal" style="color: #cc7272; font-size: 25px"></i> for one year.
+* One day: <img src="./public/img/md/one-day.png" width="30"/>
+* One week: <img src="./public/img/md/one-week.png" width="30"/>
+* One month: <img src="./public/img/md/one-month.png" width="30"/>
+* One year: <img src="./public/img/md/one-year.png" width="30"/>
 
 The display of both continuous and discontinuous data honors the member's sobriety journey whether they have hiccups along the way or not. Non-sober days impact the continuous days, but they don't restart one's entire journey.
 
