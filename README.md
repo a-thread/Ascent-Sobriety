@@ -35,7 +35,7 @@ This was a joint project between the following developers listed below along wit
 
 > Reed Santos: [@Reedsantos](https://github.com/Reedsantos)
 
-> Keith Tharp: [@keitharp](https://github.com/keitharp)
+> Keith Tharp: [@keitharp](https://github.com/keiththarp)
 
 > Aiden Threadgoode: [@a-thread](https://github.com/a-thread)
 
