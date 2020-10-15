@@ -6,6 +6,9 @@
 <img src="./public/img/md/front-page.png" alt="Image of start page of application" width="50%"><img src="./public/img/md/counter-page.png" alt="Image of counter page of application" width="50%">
     
 #### Deployed Link: [check us out on heroku!](https://ascent-sobriety.herokuapp.com/)
+    Guest login: 
+        - email: email@address.com
+        - password: password
 
 ---
 
